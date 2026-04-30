@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+.normal {
+    background-color: blue;
+    color: white;
+}
+
+.outline {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+
+.ugur {
+    background-color: green;
+    color: white;
+}
+
+.teh {
+    background-color: red;;
+    color: white;
+}
