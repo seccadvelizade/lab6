@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    background-color: darkblue;
+    color: white;
+    padding: 15px 20px;
+    text-align: left;
+}
+
+td {
+    padding: 15px 20px;
+}
+.status {
+    background-color: green;
+    width: 15px;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+
+}
